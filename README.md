@@ -15,7 +15,7 @@ PHP | Laravel | Composer
 PHP: ^7.4 | Laravel: 10.1.5 | Composer: 2.5.4 | MySQL Workbench
 ```
 
-## Funções - Usuario:
+## Funções - Usuário:
 
 - [x] Cadastro de usuario
 - [x] Listar usuario
@@ -34,7 +34,7 @@ PHP: ^7.4 | Laravel: 10.1.5 | Composer: 2.5.4 | MySQL Workbench
 
 **Passo 1:**
 
-Abra o arquivo .env e coloque as informacoes referentes ao seu db
+Abra o arquivo .env e coloque as informacoes referentes ao seu db.
 
 ```
 DB_CONNECTION=mysql 
@@ -47,7 +47,7 @@ DB_PASSWORD=your_password
 
 **Passo 2:**
 
-Execute este comando para criar as tabelas no db
+Execute este comando para criar as tabelas no db:
 
 ```
 php artisan migrate
