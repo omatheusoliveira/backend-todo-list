@@ -34,7 +34,7 @@ PHP: ^7.4 | Laravel: 10.1.5 | Composer: 2.5.4 | MySQL Workbench
 
 **Passo 1:**
 
-Abra o arquivo .env e coloque as informacoes referentes ao seu db.
+Abra o arquivo .env e coloque as informações referentes ao seu db.
 
 ```
 DB_CONNECTION=mysql 
