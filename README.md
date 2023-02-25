@@ -2,7 +2,7 @@
 
 ## Descrição:
 ```
-Parte Backend do projeto To do - List que foi feito em Vue 2 com framework Vuetify
+Parte Backend do projeto To do - List que foi feito em Laravel 
 ```
 
 ## Tecnologias usadas: 
