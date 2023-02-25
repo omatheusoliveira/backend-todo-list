@@ -59,5 +59,4 @@ Para rodar o projeto, execute o seguinte comando:
 
 ```
 php artisan serve
-
 ```
