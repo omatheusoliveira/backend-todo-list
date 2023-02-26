@@ -17,9 +17,9 @@ PHP: ^7.4 | Laravel: 10.1.5 | Composer: 2.5.4 | MySQL Workbench
 
 ## Funções - Usuário:
 
-- [x] Cadastro de usuario
-- [x] Listar usuario
-- [x] Excluir usuario
+- [x] Cadastro de usuário
+- [x] Listar usuário
+- [x] Excluir usuário
 
 ## Funções - Task:
 
