@@ -2,7 +2,7 @@
 
 ## Descrição:
 ```
-Parte Backend do projeto To do - List que foi feito em Laravel 
+Parte Backend do projeto To do List que foi feito em Laravel 
 ```
 
 ## Tecnologias usadas: 
