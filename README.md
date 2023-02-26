@@ -60,3 +60,26 @@ Para rodar o projeto, execute o seguinte comando:
 ```
 php artisan serve
 ```
+
+## Rotas:
+
+Referente as tasks:
+
+```
+[POST] /api/task/create <para criar uma task>
+[PUT] /api/task/id <editar uma task(usa id como parametro)>
+[DELETE] /api/task/id <excluir uma task(usa id como parametro)>
+[GET] /api/tasks <lista todas as tasks>
+
+```
+
+Referente ao usuário:
+
+```
+[POST] /api/user/create <para criar um usuário>
+[DELETE] api/user/id <excluir um usuário(usa id como parametro)>
+[GET] api/users <lista todos os usuários>
+
+```
+
+
